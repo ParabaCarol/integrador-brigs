@@ -1,9 +1,6 @@
 # integrador-brigs
-Quando uma pessoa quer comprar brigadeioros ela precisa mandar mensaegem para uma confeiteira por whatsapp e esperar sua resposta, e as confeiteiras tem que analisar todas as mensagens uma por uma.
-Com o Brigs o compador consegue realizar um pedido de acordo com a mobilidade do confeiteiro e analisar cardapio, o confeiteiro aceita os pedidos que achar mais tentadores e marca sua disponibilidade por tamanho de encomenda, sendo assim , dá um prazo de entrega, isso ajudará caso o cliente precise para um certo dia e  confeiteiro não poder atender.
-
-crud:
-
+Programa desesnvolvido para ampliar a loja de brigadeiros "Brigs".
+Coletará os pedidos e organizará para as confeiteiras.
 brigadeiros;
 clientes;
 funcionarios.
